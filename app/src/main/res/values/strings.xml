@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PCRSender</string>
+    <string name="send_pcr">Send PCR Approval</string>
+    <string name="sdcard">Open Storage</string>
+    <string name="id">ID</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="last">Last Name</string>
+    <string name="ERROR">Need fill ID,Name,Last Name</string>
+    <string-array name="HMO">
+        <item>CLALIT</item>
+        <item>MEUHEDET</item>
+        <item>MACCABI</item>
+    </string-array>
+</resources>
